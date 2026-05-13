@@ -14,4 +14,7 @@
     -->
     <TrimMode>full</TrimMode>
   </PropertyGroup>
+  <ItemGroup>
+    <AndroidNativeLibraryNoJniPreload Include="libs/x86_64/libsqlite3_xamarin.so" />
+  </ItemGroup>
 </Project>
